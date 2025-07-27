@@ -1,1 +1,1 @@
-# test-contributor
+# Test offering contribution with pull requests
